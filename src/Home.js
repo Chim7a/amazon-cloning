@@ -20,7 +20,7 @@ function Home() {
         />
     <Product 
         id="12438723632233"
-        title="Rolex watch covers"
+        title="Rolex watch"
         price={12622.22}
         rating={5}
         image="https://content.rolex.com/dam/watches/family-pages/datejust/update/2021/family-page-datejust-cover-m126333-0010_1601ac_003_portrait.jpg?imwidth=420"
